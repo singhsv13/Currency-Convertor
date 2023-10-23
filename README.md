@@ -1,8 +1,9 @@
-# React + Vite
+Developed a currency converter application using ReactJS and Tailwind CSS, showcasing proficiency in:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. **Custom Hooks and Reusable Components:** Utilized custom hooks for code modularity and maintainability.
+   
+2. **Performance Optimization (useId Hook):** Employed the `useId` hook for improved performance.
 
-Currently, two official plugins are available:
+3. **React State Management (useState) and Effects (useEffect):** Implemented state management with `useState` and managed side effects with `useEffect`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. **Production-Grade Application:** Created an accessible, user-friendly UI design adhering to high standards.
