@@ -1,4 +1,4 @@
-#Currency Convertor
+# Currency Convertor
 
 Developed a currency converter application using ReactJS and Tailwind CSS, showcasing proficiency in:
 
