@@ -1,4 +1,4 @@
-# Currency Converter Application
+# Currency Converter
 
 This currency converter application is built using ReactJS and Tailwind CSS. It allows users to convert one currency to another, and showcases best practices in React development.
 
